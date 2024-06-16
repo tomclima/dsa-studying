@@ -1,0 +1,1 @@
+// copy all elements of an array to another
